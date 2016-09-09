@@ -34,9 +34,8 @@
 			<dict>
 				<!-- bundle-identifier就是你申请证书时的名字，格式一般是somebody.app名字 -->
 				<key>bundle-identifier</key>
-				<string>com.zywx.appcan11567959</string>
-				<key>bundle-version</key>
-				<string>01.00.0008</string>
+				<string>com.lemonkeji.estateone</string>
+				
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
