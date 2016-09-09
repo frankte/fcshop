@@ -35,7 +35,8 @@
 				<!-- bundle-identifier就是你申请证书时的名字，格式一般是somebody.app名字 -->
 				<key>bundle-identifier</key>
 				<string>com.lemonkeji.estateone</string>
-				
+				<key>bundle-version</key>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
